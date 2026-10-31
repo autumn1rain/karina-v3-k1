@@ -29,6 +29,7 @@ https://github.com/autumn1rain/karina-v3-k1/releases/latest
 | [Official Quansheng updater]https://en.qsfj.com/support/downloads/8483) | `*.packed.bin` |
 | [k5prog](https://github.com/sq5bpf/k5prog): `./k5prog -F -YYY -b <file>.bin` | `*.bin` |
 | Web flasher [uvtools](https://egzumer.github.io/uvtools) (Chrome/Edge) | see the tool's page |
+| [K5K1 Prog](https://github.com/ERuban/k5k1prog-mac) (macOS), UV-K5 / UV-K5 V3 / UV-K1 | `*.bin` or `*.packed.bin` |
 
 Check that the tool supports your radio. / Проверь, что инструмент поддерживает твою рацию.
 
@@ -46,6 +47,7 @@ https://t.me/k5fwmod чат в комментариях.
 - muzkr — https://github.com/muzkr
 - armel — https://github.com/armel
 - Andrej — https://github.com/Tunas1337
+- ERuban — https://github.com/ERuban
 - DmitroBuka — @DmitrBukatov
 - Kolyan — @Kolyanuch
 - PunkTracker
