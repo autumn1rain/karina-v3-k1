@@ -10,8 +10,8 @@ https://github.com/autumn1rain/karina-v3-k1/releases/latest
 
 | File | Radio / Рация |
 | --- | --- |
-| `karina-k5v3.packed.bin` | UV-K5 V3 |
-| `karina-k5v3.bin` | UV-K5 V3 |
+| `karina-v3.packed.bin` | UV-K5 V3 |
+| `karina-v3.bin` | UV-K5 V3 |
 | `karina-k1.packed.bin` | UV-K1 |
 | `karina-k1.bin` | UV-K1 |
 
