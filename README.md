@@ -17,7 +17,7 @@ https://github.com/autumn1rain/karina-v3-k1/releases/latest
 
 ## Flashing / Прошивка
 
-Полная инструкция в файлах [Karina-v3-k1-install.pdf](Karina-v3-k1-install.pdf) [Karina-v3-k1-manual.pdf](Karina-v3-k1-manual.pdf) / большая благодарность - @DmitrBukatov
+Полная инструкция в файлах [karina-v3-k1-install.pdf](karina-v3-k1-install.pdf) [karina-v3-k1-manual.pdf](karina-v3-k1-manual.pdf) / большая благодарность - @DmitrBukatov
 
 1. Back up your radio's calibration and settings first. / Сначала сохрани калибровку и настройки.
 2. Turn the radio off, hold PTT and turn it on (flash mode). / Выключи рацию, зажми PTT и включи (режим прошивки).
