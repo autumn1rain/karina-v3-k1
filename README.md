@@ -47,7 +47,7 @@ https://t.me/k5fwmod чат в комментариях.
 - muzkr — https://github.com/muzkr
 - armel — https://github.com/armel
 - Andrej — https://github.com/Tunas1337
-- ERuban — https://github.com/ERuban
+- ERuban — @vkusni https://github.com/ERuban
 - DmitroBuka — @DmitrBukatov
 - Kolyan — @Kolyanuch
 - PunkTracker
